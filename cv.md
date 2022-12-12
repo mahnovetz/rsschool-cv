@@ -8,6 +8,7 @@
 * e-mail: mahnovetz@gmail.com
 * telegram: @mahnovetz
 * github: mahnovetz
+* discord: Andrew Mahnovetz (@mahnovetz)
 
 *********************
 
